@@ -1,5 +1,5 @@
 
-Lab 1.2: Magnetic Sensor
+## Lab 1.2: Magnetic Sensor
 
 ## 📁 โครงสร้างไฟล์ในโฟลเดอร์ (File Directory)
 
