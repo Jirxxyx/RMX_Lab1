@@ -1,4 +1,4 @@
-Lab 1.1: Potentiometer
+## Lab 1.1: Potentiometer
 
 ## 📁 โครงสร้างไฟล์ในโฟลเดอร์ (File Directory)
 
